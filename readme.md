@@ -12,6 +12,7 @@
 
 You can then access petclinic here: http://localhost:8080/
 Make sure that your Jenkins isn't currently running on 8080 (Jenkin's default)
+This is for my new commit
 
 <img width="1042" alt="petclinic-screenshot" src="https://cloud.githubusercontent.com/assets/838318/19727082/2aee6d6c-9b8e-11e6-81fe-e889a5ddfded.png">
 
